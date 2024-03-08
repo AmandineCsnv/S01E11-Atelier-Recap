@@ -1,6 +1,7 @@
 ![Photo d'illustration](image.png)
 # John Doe
-*Développeur web junior, en formation "Développement Web et Accessibilité"* \
+*Développeur web junior, en formation "Développement Web et Accessibilité"* 
+
 [Accueil]() - [Projet]() - [CV]() - [Contact]()
 
 ## Présentation
