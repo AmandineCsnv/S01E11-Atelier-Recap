@@ -7,13 +7,13 @@
 ## Contact
 N'hésitez pas une seule seconde, contactez-moi !
 
-john.doe@example.com
+:mailbox: john.doe@example.com
 
-06 06 06 06 06
+:telephone_receiver: 06 06 06 06 06
 
-[Linkedin]()
+:necktie: [Linkedin]()
 
-[Twitter]()
+:bird: [Twitter]()
 ____
 
 © 2022 - John Doe - [Me contacter](Contact.md)
